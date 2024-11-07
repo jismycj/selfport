@@ -1,0 +1,54 @@
+.h1{
+    position: absolute;
+    margin-top: -50px;
+    
+   
+}
+
+.div1{
+    height: 500px;
+    width: 250px;
+   margin-left:100px ;
+   
+   
+ 
+}
+.img{
+    width:100%;
+}
+.div2{
+    height: 500px;
+    width: 250px;
+    margin-left: 500px;
+   margin-top:-350px;
+
+}
+.div3{
+    
+
+
+height: 500px;
+    width: 250px;
+   margin-top: -650px;
+  margin-left:900px;
+ 
+}
+.head{
+    text-align: center;
+    font-weight: 600;
+    font-size: 80px;
+    text-align: center;
+    
+}
+#a{
+    text-align:center;
+    color: brown;
+}
+main{
+    margin-bottom: 300px;
+}
+
+
+
+
+

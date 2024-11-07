@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+footer{
+    background: blueviolet;
+    padding-top: 50px;
+    width: 1500px;
+}
+.container{
+    width:1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    width: 33.3%;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.footer-content{
+    width:100px;
+    margin: auto;
+    padding: 7px;
+}

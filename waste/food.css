@@ -1,0 +1,30 @@
+.navi{
+    width:50px;
+}
+.nav{
+    background-color: black;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    margin-top: 30px;
+}
+.list-items{
+    list-style: none;
+    display: inline;
+    margin: 0px 20px;
+    color: antiquewhite;
+}
+#container{
+    width:100%;
+    height: 100vh;
+    position: relative;
+}
+.links{
+    text-decoration: none;
+    color: white;
+    font-weight: 200;
+    font-size:20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
